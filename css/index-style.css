@@ -90,11 +90,14 @@ header {
 }
 
 body {
+   body {
     background: #fdd438 url(../images/index-background.png) no-repeat; /* Setting yellow background color and background image */
-    background-size: 1000px;/*set background as absolute because as I went through to adjust different classes/elemnts, the size of the backgroudn would change! code I originally had in this line... background-size: contain*/
+    background-size: cover; /* Make the background cover the entire viewport */
     color: #2848df;
     font-size: 1em;
-
+    margin: 0; /* Remove default body margin */
+    padding: 0; /* Remove default body padding */
+}
 
 }
 
