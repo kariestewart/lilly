@@ -94,6 +94,12 @@ body {
     background-size: 1000px;/*set background as absolute because as I went through to adjust different classes/elemnts, the size of the backgroudn would change! code I originally had in this line... background-size: contain*/
     color: #2848df;
     font-size: 1em;
+
+    margin: 0 auto; /* Set left and right margins to auto */
+    display: flex; /* Use flexbox */
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+    height: 100vh; /* Full height of viewport */
 }
 
 .nav-bar {
