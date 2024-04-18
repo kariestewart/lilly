@@ -86,7 +86,6 @@ header {
 }
 
 body {
-  
     background: #fdd438 url(../images/index-background.png) no-repeat; /* Setting yellow background color and background image */
     background-size: cover; /* Make the background cover the entire viewport */
     color: #2848df;
@@ -94,14 +93,10 @@ body {
     margin: 0; /* Remove default body margin */
     padding: 0; /* Remove default body padding */
 
-  
     display: flex; /* Use flexbox */
     justify-content: center; /* Center horizontally */
     align-items: center; /* Center vertically */
     height: 100vh; /* Full height of viewport */
-
-}
-
 }
 
 .nav-bar {
@@ -111,6 +106,8 @@ body {
     padding-left: 473px;
     /* For next submission, continue researching how to evenly space out items in navigation bar */
 }
+
+
 
 .nav-bar a{
     /*formatting just the words aka the links in the navigation bar*/
