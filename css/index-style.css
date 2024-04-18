@@ -86,7 +86,7 @@ header {
 }
 
 body {
-    background: #fdd438
+    background: #fdd438;
     /*background: #fdd438 url(../images/index-background.png) no-repeat; /* Setting yellow background color and background image */
     /*background-size: cover; /* Make the background cover the entire viewport */
     color: #2848df;
