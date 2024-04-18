@@ -5,13 +5,14 @@ last modified: Mar 17
 submitted to:
 submitted time: 
 
-body {
-    margin: 0 auto; /* Set left and right margins to auto */
-    display: flex; /* Use flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Full height of viewport */
+/*ks test*/
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Ensure the container takes at least the full height of the viewport */
 }
+
 
 
 */
