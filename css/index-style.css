@@ -86,8 +86,8 @@ header {
 }
 
 body {
-    background: #fdd438 url(../images/index-background.png) no-repeat; /* Setting yellow background color and background image */
-    background-size: cover; /* Make the background cover the entire viewport */
+    /*background: #fdd438 url(../images/index-background.png) no-repeat; /* Setting yellow background color and background image */
+    /*background-size: cover; /* Make the background cover the entire viewport */
     color: #2848df;
     font-size: 1em;
     margin: 0; /* Remove default body margin */
