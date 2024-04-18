@@ -95,11 +95,7 @@ body {
     color: #2848df;
     font-size: 1em;
 
-    margin: 0 auto; /* Set left and right margins to auto */
-    display: flex; /* Use flexbox */
-    justify-content: center; /* Center horizontally */
-    align-items: center; /* Center vertically */
-    height: 100vh; /* Full height of viewport */
+
 }
 
 .nav-bar {
