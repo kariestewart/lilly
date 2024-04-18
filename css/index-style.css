@@ -4,6 +4,17 @@ name: Lillie Davis
 last modified: Mar 17 
 submitted to:
 submitted time: 
+
+
+
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
 */
 
 /* hex code toolbox */
